@@ -1,2 +1,2 @@
 # practice-
-this is a practice of git coomands
+this is a practice of git commands
